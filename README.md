@@ -5,7 +5,7 @@
 ### a. Scope
 Define project goals and schedule
 1. objectives
-In which way will your project solve userâ€™s problem?
+In which way will your project solve user's problem?
 
 ### b. Audit
 Review existing work and product
