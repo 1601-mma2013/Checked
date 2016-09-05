@@ -3,34 +3,9 @@
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-People tend to forget to bring their belongings when they leave home to run their errands. Checked is an application that is connected to a wearable sensing device. User can attach the device and set a checklist of the belongings needed and also their locations through user's phone. The device will ring if the item in the checklist is not inside your bag and user can check the item's location.
-
-Schedule:
-
-Week10
-
-:Project idea proposal
-Planning of workload and schedule
-Responsibility division between teammates
-Research and modelling of persona
-
-Week11
-
-Consultation on progress
-Design of output
-Finalize on technologies used
-
-Week12
-
-Combine content with coding and sensors
-Consultation/Problem solving
-Week13
-
-Project test run
-Project debugging
-Week14
-
-Final bugless project ready for Presentation
+Define project goals and schedule
+1. objectives
+In which way will your project solve user's problem?
 
 ### b. Audit
 Review existing work and product
@@ -87,22 +62,30 @@ Find various aspect of audience/customer
 user and customer archetypes
 
 1. **goals**
+Make user life easier, to find your things in more easy way
 
 2. Patterns in user and customer behaviors
+People always like to do packing in last minute, will forgot to bring something important when going out from home
 
 3. attitudes
+Smart detector
 
 4. aptitudes
+Scan the things that you want, make sure all the stuff that you want is inside your bag
 
 5. environments
+The device can use in a bag, either you place your scanner in hand bag or luggage
 
 6. tools
+It is a scanner that connect with your phone/tablet, use with an application
 
 7. challenges
+To make sure all the stuff is in the bag
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
 1. Workflows among multiple people
+You can scan several things, as much as you can, when you listed out in your devices, through the application
 
 2. environments
 
