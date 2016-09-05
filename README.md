@@ -4,8 +4,7 @@
 ## 1. Research  
 ### a. Scope
 Define project goals and schedule
-1. objectives
-In which way will your project solve user's problem?
+People tend to forget to bring their belongings when they leave home to run their errands.
 
 ### b. Audit
 Review existing work and product
