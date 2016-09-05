@@ -4,8 +4,7 @@
 ## 1. Research  
 ### a. Scope
 Define project goals and schedule
-1. objectives
-In which way will your project solve user's problem?
+People tend to forget to bring their belongings when they leave home to run their errands.
 
 ### b. Audit
 Review existing work and product
@@ -38,54 +37,54 @@ Understand product vision and constraints
 Understand user needs and behavior and describe it.
 Find various aspect of audience/customer
  
-1. Users
+1. Users 
+	- Everyone.
 
-2. potential users
+2. potential users 
+	- Students and office workers.
 
-3. (userâ€™s) behaviors
+3. (user's) behaviors 
+	- Feel lazy to prepare everything at night and think of they can prepare everything tomorrow if they wake up early.
 
-4. (userâ€™s) attitudes
+4. (user's) attitudes 
+	- Will be panic when they woke up late and started to leave some important things behind.
 
-5. (userâ€™s) aptitudes
-	- usersâ€™s ability to learn something quickly and do it well
+5. (user's) aptitudes
+	- Users can use this application to set up their checklist for their needs and just simply keep their phone in the bag the the app will detect what they've left out.
 
-6. (userâ€™s) motivations
+6. (user's) motivations
+	- Users no need to worry about forgetting and lefting important things at home and make their journey more convenient.
 
-7. (userâ€™s) environments
+7. (user's) environments
+	- In their home, maybe things are messy and not knowing where is the thing they need when they can't keep calm and recall.
 
-8. (userâ€™s) tools
+8. (user's) tools
+	- In the application, users can set the position of the thing to prevent the situation that users can't manage to recall.
 
-9. (userâ€™s) challenges
+9. (user's) challenges
+	- Users have to wake up early to prevent the clumsy situation.
 
 ## 2. Modeling
 ### a. Personas
 user and customer archetypes
 
 1. **goals**
-Make user life easier, to find your things in more easy way
 
 2. Patterns in user and customer behaviors
-People always like to do packing in last minute, will forgot to bring something important when going out from home
 
 3. attitudes
-Smart detector
 
 4. aptitudes
-Scan the things that you want, make sure all the stuff that you want is inside your bag
 
 5. environments
-The device can use in a bag, either you place your scanner in hand bag or luggage
 
 6. tools
-It is a scanner that connect with your phone/tablet, use with an application
 
 7. challenges
-To make sure all the stuff is in the bag
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
 1. Workflows among multiple people
-You can scan several things, as much as you can, when you listed out in your devices, through the application
 
 2. environments
 
