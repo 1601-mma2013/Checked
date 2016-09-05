@@ -3,8 +3,34 @@
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-Define project goals and schedule
-People tend to forget to bring their belongings when they leave home to run their errands.
+People tend to forget to bring their belongings when they leave home to run their errands. Checked is an application that is connected to a wearable sensing device. User can attach the device and set a checklist of the belongings needed and also their locations through user's phone. The device will ring if the item in the checklist is not inside your bag and user can check the item's location.
+
+Schedule:
+
+Week10
+
+:Project idea proposal
+Planning of workload and schedule
+Responsibility division between teammates
+Research and modelling of persona
+
+Week11
+
+Consultation on progress
+Design of output
+Finalize on technologies used
+
+Week12
+
+Combine content with coding and sensors
+Consultation/Problem solving
+Week13
+
+Project test run
+Project debugging
+Week14
+
+Final bugless project ready for Presentation
 
 ### b. Audit
 Review existing work and product
