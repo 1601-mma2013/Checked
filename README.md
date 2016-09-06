@@ -69,26 +69,37 @@ Find various aspect of audience/customer
 user and customer archetypes
 
 1. **goals**
+	- Make user life easier, to find your things in more easy way
 
 2. Patterns in user and customer behaviors
+	-People always like to do packing in last minute, will forgot to bring something important when going out from home
 
 3. attitudes
+	-Smart detector
 
 4. aptitudes
+	-Scan the things that you want, make sure all the stuff that you want is inside your bag
 
 5. environments
+	-The device can use in a bag, either you place your scanner in hand bag or luggage
 
 6. tools
+	-It is a scanner that connect with your phone/tablet, use with an application
 
 7. challenges
+	-To make sure all the stuff is in the bag
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
 1. Workflows among multiple people
+	-You can scan several things, as much as you can, when you listed out in your devices, through the application
 
 2. environments
+	-Place device in a bag/luggage
 
 3. artifacts
+	-Smart detector
+
 # II. Synthesis
 ## 3. Requirements Definition
 ### a. Context Scenarios
