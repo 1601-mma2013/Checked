@@ -5,17 +5,19 @@
 ### a. Scope
 
 People tend to forget to bring their belongings when they leave home to run their errands.
--Help users to create a check list and ensure they do not leave their belongings at home.
--The sensor will inform user if the item stated in the check list is not put in their bag.
+- Allow users to create a check list and location of items needed through an application.
+- The sensor will inform user if the item stated in the check list is not in their bag.
 
 ### b. Audit
 Review existing work and product
-1. Field (market) research
 
+- https://tagla.com.my/shop/
+TAG La Trading, a Malaysian-born company with a passion for interactive technology and developing convenient gadgets for everyday life, this past year released a revolutionary solution to finding missing items: the TAG La Bluetooth Tracker. Designed to help people keep track of important items that are easy to lose, such as phones, keys, and iPads
 2. competitors / alternatives / replacement
-
+- manually written checklist 
 4. relevant technologies 
-
+- wireless sensor tags
+http://wirelesstag.net/index.html
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 1. product{project} vision 
