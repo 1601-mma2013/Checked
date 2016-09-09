@@ -13,13 +13,14 @@ People tend to forget to bring their belongings when they leave home to run thei
 
 - https://tagla.com.my/shop/
 TAG La Trading, a Malaysian-born company with a passion for interactive technology and developing convenient gadgets for everyday life, this past year released a revolutionary solution to finding missing items: the TAG La Bluetooth Tracker. Designed to help people keep track of important items that are easy to lose, such as phones, keys, and iPads
+2. Competitors 
 
-2. competitors / alternatives / replacement
-- manually written checklist 
+   - manually written checklist
 
-3. relevant technologies 
-- wireless sensor tags
-http://wirelesstag.net/index.html
+3. Relevant technologies 
+
+   - wireless sensor tags
+   - http://wirelesstag.net/index.html
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
