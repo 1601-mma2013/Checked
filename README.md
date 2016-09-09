@@ -9,25 +9,28 @@ People tend to forget to bring their belongings when they leave home to run thei
 - The sensor will inform user if the item stated in the check list is not in their bag.
 
 ### b. Audit
-Review existing work and product
+1. Review existing work and product
 
 - https://tagla.com.my/shop/
 TAG La Trading, a Malaysian-born company with a passion for interactive technology and developing convenient gadgets for everyday life, this past year released a revolutionary solution to finding missing items: the TAG La Bluetooth Tracker. Designed to help people keep track of important items that are easy to lose, such as phones, keys, and iPads
+
 2. competitors / alternatives / replacement
 - manually written checklist 
-4. relevant technologies 
+
+3. relevant technologies 
 - wireless sensor tags
 http://wirelesstag.net/index.html
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 1. product{project} vision 
-
+Be the first and best product that user can think of in managing the iteir belongings. User need not to worry leaving their belongings at home.
 2. risk
-	3. What is the worst result?
+- Do not have wifi connection and could not connect to the application.
+
 
 3. Obstacles
-	1. external threats 
+- User's phone (device) gets stolen/ lost.
 4. constraints 
 	1. Internal limitations 
 		2. viable technologies
