@@ -3,8 +3,10 @@
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-Define project goals and schedule
+
 People tend to forget to bring their belongings when they leave home to run their errands.
+-Help users to create a check list and ensure they do not leave their belongings at home.
+-The sensor will inform user if the item stated in the check list is not put in their bag.
 
 ### b. Audit
 Review existing work and product
