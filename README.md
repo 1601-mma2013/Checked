@@ -18,6 +18,7 @@ TAG La Trading, a Malaysian-born company with a passion for interactive technolo
 4. relevant technologies 
 - wireless sensor tags
 http://wirelesstag.net/index.html
+
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 1. product{project} vision 
