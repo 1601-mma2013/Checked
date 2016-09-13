@@ -50,7 +50,7 @@ Find various aspect of audience/customer
 	- Everyone.
 
 2. potential users 
-	- Students and office workers.
+	- Students, office worker, or traveller
 
 3. (user's) behaviors 
 	- Feel lazy to prepare everything at night and think of they can prepare everything tomorrow if they wake up early.
@@ -79,7 +79,7 @@ user and customer archetypes
 
 1. **goals**
 	- Make user life easier, to find your things in more easy way.
-	- Find your things less than one minutes
+	- Manage user time well, find things less than one minutes
 	- Will not find important things in a mess
 
 2. Patterns in user and customer behaviors
@@ -89,16 +89,20 @@ user and customer archetypes
 	- Smart detector, and it can help user save their time, find important things less than a minute.
 
 4. aptitudes
-	- Scan the things that you want, make sure all the stuff that you want is inside your bag
+	- Scan the things that you want(within a bluetooth area, make sure all the stuff that you want is inside your bag
 
 5. environments
 	- The device can use in a bag, either you place your scanner in hand bag or luggage
 
 6. tools
-	- The devices need to connect with your phone/tablet, have to download an application, set a check list(items that you might want to bring) in your phone. It will scan whether the specific item that you have attach with the tag is it in the bag
+	-Each tag have their own QR Code. Scan the code in your phone, and you may rename it using an free application of "Checked".
+	- The devices need to connect with your phone/tablet, you have to download an free application of "Checked", set a check list(items that you might want to bring) in your phone. 
+	- A signal will show in your phone how far you and your things are separate. 
+	- When you are leaving your home, you may have something left out, the signal become low, and your phone will ring, an the reminder pop out what's left behind.
+	- The tag have light indicator when beeping(It also can be a light indicator itself)
 
 7. challenges
-	- To detect the items that listed down in check list, make sure all items attend in bag
+	- To detect the items that listed down in check list, make sure all items are in the bag
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
