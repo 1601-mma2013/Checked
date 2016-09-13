@@ -59,7 +59,7 @@ Find various aspect of audience/customer
 	- Will be panic when they woke up late and started to leave some important things behind.
 
 5. (user's) aptitudes
-	- Users can use this application to set up their checklist for their needs and just simply keep their phone in the bag the the app will detect what they've left out.
+	- Users can use this application to set up their checklist for their needs and just simply keep their phone in the bag and the app will detect what they've left out.
 
 6. (user's) motivations
 	- Users no need to worry about forgetting and lefting important things at home and make their journey more convenient.
@@ -78,13 +78,15 @@ Find various aspect of audience/customer
 user and customer archetypes
 
 1. **goals**
-	- Make user life easier, to find your things in more easy way
+	- Make user life easier, to find your things in more easy way.
+	- Find your things less than one minutes
+	- Will not find important things in a mess
 
 2. Patterns in user and customer behaviors
 	- People always like to do packing in last minute, will forgot to bring something important when going out from home
 
 3. attitudes
-	- Smart detector
+	- Smart detector, and it can help user save their time, find important things less than a minute.
 
 4. aptitudes
 	- Scan the things that you want, make sure all the stuff that you want is inside your bag
@@ -93,15 +95,15 @@ user and customer archetypes
 	- The device can use in a bag, either you place your scanner in hand bag or luggage
 
 6. tools
-	- It is a scanner that connect with your phone/tablet, use with an application
+	- The devices need to connect with your phone/tablet, have to download an application, set a check list(items that you might want to bring) in your phone. It will scan whether the specific item that you have attach with the tag is it in the bag
 
 7. challenges
-	- To make sure all the stuff is in the bag
+	- To detect the items that listed down in check list, make sure all items attend in bag
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
 1. Workflows among multiple people
-	- You can scan several things, as much as you can, when you listed out in your devices, through the application
+	- You can scan several things when you listed out in your devices, through the application
 
 2. environments
 	- Place device in a bag/luggage
