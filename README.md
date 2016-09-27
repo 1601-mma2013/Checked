@@ -152,11 +152,12 @@ Describe necessary capabilities of the product
 
 ## 4. Design Framework
 ### a. Elements
-#### i.From a factor, posture, and input method
+#### i. From a factor, posture, and input method
 - From factor	:- This is a divice with mobile application
 - From posture	:- Requires to attach the tags and key in data through mobile application, so the mode of attention are hand and fingers
 - From input method :- It uses keypad, touch screen, radar and sensor.
-#### ii.Functional and Data Elements
+
+#### ii. Functional and Data Elements
 - Fundamental subject
 	- Detect object which gets further from user and triger notification.
 - Relationship between each other
@@ -169,15 +170,23 @@ Describe necessary capabilities of the product
 	- This device is done by using radar, sensor and mobile phone as the technologies.
 - Differentiation of Interaction from Competitors
 	- This application is specifically for Office workers and students by providing reminder that what they had left behind before leaving the house.
-#### iii.Functional Groups and Hierarchy
+	
+#### iii. Functional Groups and Hierarchy
 - Interaction Patterns and Principles
 	- This application provides learnable interaction design, which users learn the functions.
 	- This application provides consistent interaction design. Users are able to focus on the context when the elements, behaviours and styles are consistent.
 - Select Primary View
 	- By aiming users goal.
 
-#### iv.Key Path Scenario' 
+#### iv. Key Path Scenarios
 - After installing the mobile application, Jane tap the "Settings" button and select her language as Enlish in the "language tab, so now she can briefly go through the "Help" tab to know the procedure to use the device and application.
 - Jane signs up with her e-mail address. After attaching the tags on her things, she taps on the "Settings" button. Jane rename the tag's name that she attached to her things and key in the current location of the object.
+- Jane turns on the "Notification" tab so that the reminders will pop-up on the lock screen and ring to remind her to take something.
+- Everytime Jane changes the tag to another item, she rename and reinsert the the location of the item's current location to let her know where are the items when she's rushing, this saves time to find the item all over the house.
 
+#### v. Validation Scenarios
+- Alternative Scenarios
+Jane finds its troublesome to rename and key in all the requirements everytime. Hence, she save the data as draft and when she need the data, she can just activate it.
 
+- Necessary-Use Scenario
+Jane is changing the mobile phone, but she's not willing to re-key in all the data she had now in the previous mobile. Hence, she can search back to her account by signing up with her e-mail, all the datas are automatically saved.
