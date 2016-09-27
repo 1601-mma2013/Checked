@@ -152,6 +152,8 @@ Describe necessary capabilities of the product
 
 ## 4. Design Framework
 ### a. Elements
+
+
 Deï¬ne manifestations of information and functionality
 1. Information
 
@@ -176,17 +178,8 @@ Design overall structure of user experience
 	8. storyboards
 ### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
-- “Checked” - Key Path Scenario
-- 1. In the morning, it is a very busy day ahead for Jane. Jane wake up late and she is in a rush because she need to conduct an important meeting which she done a project for her company. Jane grab a folder that filled with some important documents.
-- 2. Jane rush out from home, but actually she had left something important behind. On the second she is standing at the doorstep preparing to leave home, her phone rang. Jane check on her phone, she feel grateful when she realize that this is a reminder alert from the smart device, which is “Checked”. 
-- 3. On the phone screen, a reminder box pop out that listed “thumb drive”, “ID card”. These are the 2 most important thing that Jane left when she is in a rush.  
-- 4. Jane knew that she is a forgetful, and careless person. Thus, on yesterday she used “Checked” to tag all her important document for meeting. She attached the tag on her thumb drive, file, and also her ID card. 
-- 5. After she attached the important things, she open the application of “Checked” in her phone. She started to fill in the check list, and rename the tag name with “thumb drive”, “file”, and “ID card”.
-- 6. Luckily, Jane reach the company in time and she walk in to the meeting hall. She start to present her work. She distribute the document to her boss for reference. She also present her work in slide. She used the light indicator, which is one of the function on the tag of “Checked”, to point out the keyword on the presentation slide.
-- 7. Her boss is happy with her presentation, because she manage to higlight all the key word on the presentation slide, and she presented perfectly in the meeting.
-- "Checked" - Validation Scenario
-- 1. 
-
-
+- Key Path Scenarios
+	- 
+	
 
 
