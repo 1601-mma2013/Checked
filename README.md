@@ -153,37 +153,31 @@ Describe necessary capabilities of the product
 ## 4. Design Framework
 ### a. Elements
 #### i.From a factor, posture, and input method
-	- From factor	:- This is a divice with mobile application
-	- From posture	:- Requires to attach the tags and key in data through mobile application, so the mode of attention are hand and fingers
-	- From input method :- It uses keypad, touch screen, radar and sensor.
+- From factor	:- This is a divice with mobile application
+- From posture	:- Requires to attach the tags and key in data through mobile application, so the mode of attention are hand and fingers
+- From input method :- It uses keypad, touch screen, radar and sensor.
 #### ii.Functional and Data Elements
-	- Fundamental subject
-		- Detect object which gets further from user and triger notification.
-	- Relationship between each other
-		- After switching on GPS system, users' and tags' location will be detected and send reminder when the distance is over the range.
-	- Accomplish user's goal
-		- Users can prevent leaving home with importi=ant things lefting behind.
-	- Best Fit and Design Principles
-		- A mobile application and a tag which can attach wherever the users want.
-	- Fit within Technologies
-		- This device is done by using radar, sensor and mobile phone as the technologies.
-	- Differentiation of Interaction from Competitors
-		- This application is specifically for Office workers and students by providing reminder that what they had left behind before leaving the house.
-### b. Framework
-Design overall structure of user experience
-1. Object relationships
-2. Conceptual groupings
-3. Navigation sequencing
-4. Principles and patterns
-5. Floor Plan
-	6. flow
-	7. sketches
-		- https://cloud.githubusercontent.com/assets/20339755/18885079/af145e7c-851c-11e6-8102-25c3e982e091.jpg
-	8. storyboards
-### c. Key Path and Validation Scenarios
-Describe how the persona interacts with the product
-- Key Path Scenarios
-	- 
-	
+- Fundamental subject
+	- Detect object which gets further from user and triger notification.
+- Relationship between each other
+	- After switching on GPS system, users' and tags' location will be detected and send reminder when the distance is over the range.
+- Accomplish user's goal
+	- Users can prevent leaving home with importi=ant things lefting behind.
+- Best Fit and Design Principles
+	- A mobile application and a tag which can attach wherever the users want.
+- Fit within Technologies
+	- This device is done by using radar, sensor and mobile phone as the technologies.
+- Differentiation of Interaction from Competitors
+	- This application is specifically for Office workers and students by providing reminder that what they had left behind before leaving the house.
+#### iii.Functional Groups and Hierarchy
+- Interaction Patterns and Principles
+	- This application provides learnable interaction design, which users learn the functions.
+	- This application provides consistent interaction design. Users are able to focus on the context when the elements, behaviours and styles are consistent.
+- Select Primary View
+	- By aiming users goal.
+
+#### iv.Key Path Scenario' 
+- After installing the mobile application, Jane tap the "Settings" button and select her language as Enlish in the "language tab, so now she can briefly go through the "Help" tab to know the procedure to use the device and application.
+- Jane signs up with her e-mail address. After attaching the tags on her things, she taps on the "Settings" button. Jane rename the tag's name that she attached to her things and key in the current location of the object.
 
 
