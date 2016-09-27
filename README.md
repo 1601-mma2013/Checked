@@ -128,14 +128,14 @@ She is glad that she prepared everything and tag all the things she need with Ch
 
 ### b. Requirements
 Describe necessary capabilities of the product
-1. user mental models
+- 1. user mental models
 	- Users can be at ease for not to left out anything important when they're leaving home.
-2. design imperatives
+- 2. design imperatives
 	- This product provides features that reminds users that what they've left out at home when they're heading out.
 	- This product has a light indicator that is convinient for presentations. 
-3. product vision
+- 3. product vision
 	- Office workers, students and traveller are able to leave ther house without anything important left out at home.
-4. business requirements
+- 4. business requirements
 	- Collected information
 		- Users prefer devices which is light and can be able to carry everywhere for convinience.
 	- Key Attributes of Product
