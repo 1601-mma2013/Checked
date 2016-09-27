@@ -152,19 +152,23 @@ Describe necessary capabilities of the product
 
 ## 4. Design Framework
 ### a. Elements
-
-
-Deï¬ne manifestations of information and functionality
-1. Information
-
-2. functions
-
-3. mechanisms
-
-4. actions
-
-5. domain object models
-
+#### i.From a factor, posture, and input method
+	- From factor	:- This is a divice with mobile application
+	- From posture	:- Requires to attach the tags and key in data through mobile application, so the mode of attention are hand and fingers
+	- From input method :- It uses keypad, touch screen, radar and sensor.
+#### ii.Functional and Data Elements
+	- Fundamental subject
+		- Detect object which gets further from user and triger notification.
+	- Relationship between each other
+		- After switching on GPS system, users' and tags' location will be detected and send reminder when the distance is over the range.
+	- Accomplish user's goal
+		- Users can prevent leaving home with importi=ant things lefting behind.
+	- Best Fit and Design Principles
+		- A mobile application and a tag which can attach wherever the users want.
+	- Fit within Technologies
+		- This device is done by using radar, sensor and mobile phone as the technologies.
+	- Differentiation of Interaction from Competitors
+		- This application is specifically for Office workers and students by providing reminder that what they had left behind before leaving the house.
 ### b. Framework
 Design overall structure of user experience
 1. Object relationships
