@@ -165,5 +165,8 @@ Describe how the persona interacts with the product
 - 4. Jane knew that she is a forgetful, and careless person. Thus, on yesterday she used “Checked” to tag all her important document for meeting. She attached the tag on her thumb drive, file, and also her ID card. 
 - 5. After she attached the important things, she open the application of “Checked” in her phone. She started to fill in the check list, and rename the tag name with “thumb drive”, “file”, and “ID card”.
 - 6. Luckily, Jane reach the company in time and she walk in to the meeting hall. She start to present her work. She distribute the document to her boss for reference. She also present her work in slide. She used the light indicator, which is one of the function on the tag of “Checked”, to point out the keyword on the presentation slide.
+- 7. Her boss is happy with her presentation, because she manage to higlight all the key word on the presentation slide, and she prepared the documents.
+
+
 
 
