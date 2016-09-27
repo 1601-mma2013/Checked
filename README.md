@@ -118,7 +118,14 @@ Represent domain factors beyond individual users and customers
 # II. Synthesis
 ## 3. Requirements Definition
 ### a. Context Scenarios
-A description on how the product fits into the personaâ€™s life and environment, and how it helps them achieve their goals by telling the narrative about ideal user experiences
+Jane Tan's context scenario
+
+Jane woke up late this morning and she have to conduct a very important meeting today. Jane rush up to get ready herself quickly then grab her important documents and rush out from home. On the second step she rushes out, her phone rang and shows from the application "Checked" which reminds her that something important had left out. "Checked" displayed the term "thumb drive" and "ID card" on the lock screen on her phone and she realized that she left her presentation slides and her pass to enter the company.
+
+Immidiately, Jane rushes into her house and grab the things she left behind and luckily she is just on time to conduct her meting when she reaches the company. Jane presented with the presentation slides and distributed the documents to everyone in the meeting hall. During her meeting, she uses the light indicator on Checked's tag which is one of the fuction of the dwvice and successfully explained and highlighted all the main points. Everyone in the meting hall can easily understand what she is trying to presenting and the meeting was effective. 
+
+She is glad that she prepared everything and tag all the things she need with Checked's last night to prevent her to miss out important things and ruin the meeting session.
+
 ### b. Requirements
 Describe necessary capabilities of the product
 1. Functional and data needs
@@ -155,17 +162,20 @@ Design overall structure of user experience
 5. Floor Plan
 	6. flow
 	7. sketches
+		- https://cloud.githubusercontent.com/assets/20339755/18885079/af145e7c-851c-11e6-8102-25c3e982e091.jpg
 	8. storyboards
 ### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
-- “Checked” 
+- “Checked” - Key Path Scenario
 - 1. In the morning, it is a very busy day ahead for Jane. Jane wake up late and she is in a rush because she need to conduct an important meeting which she done a project for her company. Jane grab a folder that filled with some important documents.
 - 2. Jane rush out from home, but actually she had left something important behind. On the second she is standing at the doorstep preparing to leave home, her phone rang. Jane check on her phone, she feel grateful when she realize that this is a reminder alert from the smart device, which is “Checked”. 
 - 3. On the phone screen, a reminder box pop out that listed “thumb drive”, “ID card”. These are the 2 most important thing that Jane left when she is in a rush.  
 - 4. Jane knew that she is a forgetful, and careless person. Thus, on yesterday she used “Checked” to tag all her important document for meeting. She attached the tag on her thumb drive, file, and also her ID card. 
 - 5. After she attached the important things, she open the application of “Checked” in her phone. She started to fill in the check list, and rename the tag name with “thumb drive”, “file”, and “ID card”.
 - 6. Luckily, Jane reach the company in time and she walk in to the meeting hall. She start to present her work. She distribute the document to her boss for reference. She also present her work in slide. She used the light indicator, which is one of the function on the tag of “Checked”, to point out the keyword on the presentation slide.
-- 7. Her boss is happy with her presentation, because she manage to higlight all the key word on the presentation slide, and she prepared the documents.
+- 7. Her boss is happy with her presentation, because she manage to higlight all the key word on the presentation slide, and she presented perfectly in the meeting.
+- "Checked" - Validation Scenario
+- 1. 
 
 
 
