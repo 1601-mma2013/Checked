@@ -128,14 +128,14 @@ She is glad that she prepared everything and tag all the things she need with Ch
 
 ### b. Requirements
 Describe necessary capabilities of the product
-- 1. User Mental Models
+- User Mental Models
 	- Users can be at ease for not to left out anything important when they're leaving home.
-- 2. Design Imperatives
+- Design Imperatives
 	- This product provides features that reminds users that what they've left out at home when they're heading out.
 	- This product has a light indicator that is convinient for presentations. 
-- 3. Product Vision
+- Product Vision
 	- Office workers, students and traveller are able to leave ther house without anything important left out at home.
-- 4. Business Requirements
+- Business Requirements
 	- Collected information
 		- Users prefer devices which is light and can be able to carry everywhere for convinience.
 	- Key Attributes of Product
@@ -147,7 +147,7 @@ Describe necessary capabilities of the product
 	- Phases of the Project
 		- With remind notification, users can be able to pass throught the day more convinient.
 		- With lesser time and effort, users can be able to have everything which they need with them.
-5. Technology
+- Technology
 	- When the users are preparing for their needs for the next day, tag is attached to the object and will let the user to rename and key in information through a smartphone application. The location of the object will be written into the application and when they rushed out of the rage that the tag detected, their phone will rang with notifivation that reminds users something had left out.
 
 ## 4. Design Framework
