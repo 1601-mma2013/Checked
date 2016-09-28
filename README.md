@@ -24,21 +24,21 @@ TAG La Trading, a Malaysian-born company with a passion for interactive technolo
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
-1. product{project} vision 
-- Be the first and best product that user can think of in managing their belongings. User need not to worry leaving their belongings at home.
+1. Product{project} vision 
+	- Be the first and best product that user can think of in managing their belongings. User need not to worry leaving their belongings at home.
 2. risk
-- Do not have wifi connection and could not connect to the application.
-- User could not receive notification during low battery on their phone.
+	- Do not have wifi connection and could not connect to the application.
+	- User could not receive notification during low battery on their phone.
 
 
 3. Obstacles
-- User's phone (device) gets stolen/ lost.
+	- User's phone (device) gets stolen/ lost.
 
 4. constraints 
-* Internet connection
-* Cost
+	- Internet connection
+	- Cost
 5. opportunities 
-	In spite of the obstacles we have this project has strength from
+	-In spite of the obstacles we have this project has strength from
 
 a) Helping users in managing the items they need to bring for an occasion.
 
