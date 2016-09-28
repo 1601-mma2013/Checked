@@ -173,8 +173,7 @@ Format: ![Alt Text](https://cloud.githubusercontent.com/assets/20339755/18885079
 	- This application is specifically for Office workers and students by providing reminder that what they had left behind before leaving the house.
 	
 #### iii. Functional Groups and Hierarchy
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](file:///C:/Users/YEW%20MELAINE/Downloads/Untitled%20Diagram.html)
+
 - Interaction Patterns and Principles
 	- This application provides learnable interaction design, which users learn the functions.
 	- This application provides consistent interaction design. Users are able to focus on the context when the elements, behaviours and styles are consistent.
