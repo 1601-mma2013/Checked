@@ -195,3 +195,5 @@ Jane finds its troublesome to rename and key in all the requirements everytime. 
 
 - Necessary-Use Scenario
 Jane is changing the mobile phone, but she's not willing to re-key in all the data she had now in the previous mobile. Hence, she can search back to her account by signing up with her e-mail, all the datas are automatically saved.
+
+![Image of Yaktocat](https://cloud.githubusercontent.com/assets/20280931/18897944/ee73e17a-8560-11e6-96e5-47cd21f8071a.png)
