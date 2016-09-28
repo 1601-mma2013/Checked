@@ -23,7 +23,6 @@ TAG La Trading, a Malaysian-born company with a passion for interactive technolo
    - http://wirelesstag.net/index.html
 
 ### c. Stakeholder Interviews (internal / external)
-Understand product vision and constraints
 1. Product{project} vision 
 	- Be the first and best product that user can think of in managing their belongings. User need not to worry leaving their belongings at home.
 2. risk
