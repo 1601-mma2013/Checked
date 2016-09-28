@@ -25,7 +25,7 @@ TAG La Trading, a Malaysian-born company with a passion for interactive technolo
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 1. product{project} vision 
-Be the first and best product that user can think of in managing their belongings. User need not to worry leaving their belongings at home.
+- Be the first and best product that user can think of in managing their belongings. User need not to worry leaving their belongings at home.
 2. risk
 - Do not have wifi connection and could not connect to the application.
 - User could not receive notification during low battery on their phone.
@@ -35,9 +35,8 @@ Be the first and best product that user can think of in managing their belonging
 - User's phone (device) gets stolen/ lost.
 
 4. constraints 
-	1. Internal limitations 
-		2. viable technologies
-		2. cost
+* Internet connection
+* Cost
 5. opportunities 
 	In spite of the obstacles we have this project has strength from
 
@@ -114,16 +113,6 @@ user and customer archetypes
 7. challenges
 	- To detect the items that listed down in check list, make sure all items are in the bag
 
-### b. Other Models
-Represent domain factors beyond individual users and customers
-1. Workflows among multiple people
-	- You can scan several things when you listed out in your devices, through the application
-
-2. environments
-	- Place device in a bag/luggage
-
-3. artifacts
-	- Smart detector
 
 # II. Synthesis
 ## 3. Requirements Definition
