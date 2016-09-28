@@ -181,7 +181,7 @@ Format: ![Alt Text](https://cloud.githubusercontent.com/assets/20339755/18885079
 	- This application is specifically for Office workers and students by providing reminder that what they had left behind before leaving the house.
 	
 #### iii. Functional Groups and Hierarchy
-![Image of Yaktocat](https://cloud.githubusercontent.com/assets/20280931/18897944/ee73e17a-8560-11e6-96e5-47cd21f8071a.png)
+![Image of Yaktocat](https://cloud.githubusercontent.com/assets/20280931/18898335/a3217c48-8563-11e6-97bb-1ce825b521b0.png)
 - Interaction Patterns and Principles
 	- This application provides learnable interaction design, which users learn the functions.
 	- This application provides consistent interaction design. Users are able to focus on the context when the elements, behaviours and styles are consistent.
