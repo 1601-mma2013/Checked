@@ -173,7 +173,7 @@ Format: ![Alt Text](https://cloud.githubusercontent.com/assets/20339755/18885079
 - Fit within Technologies
 	- This device is done by using radar, sensor and mobile phone as the technologies.
 - Differentiation of Interaction from Competitors
-	- This application is specifically for Office workers and students by providing reminder that what they had left behind before leaving the house.
+	- This application is specifically for office workers and students by providing reminder that what they had left behind before leaving the house.
 	
 #### iii. Functional Groups and Hierarchy
 ![Image of Yaktocat](https://cloud.githubusercontent.com/assets/20280931/18897944/ee73e17a-8560-11e6-96e5-47cd21f8071a.png)
