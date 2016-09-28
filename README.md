@@ -25,29 +25,32 @@ TAG La Trading, a Malaysian-born company with a passion for interactive technolo
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 1. product{project} vision 
-Be the first and best product that user can think of in managing the iteir belongings. User need not to worry leaving their belongings at home.
+Be the first and best product that user can think of in managing their belongings. User need not to worry leaving their belongings at home.
 2. risk
 - Do not have wifi connection and could not connect to the application.
+- User could not receive notification during low battery on their phone.
 
 
 3. Obstacles
 - User's phone (device) gets stolen/ lost.
+
 4. constraints 
 	1. Internal limitations 
 		2. viable technologies
 		2. cost
 5. opportunities 
-	1. **In spite of** the obstacles we have this project has strength from a), b), c), â€¦. 
-	2. Persisting problem
+	In spite of the obstacles we have this project has strength from
 
-5. users 
+a) Helping users in managing the items they need to bring for an occasion.
+
+b) Save time in finding their belongings.
 
 ### d. User observations
 Understand user needs and behavior and describe it.
 Find various aspect of audience/customer
  
 1. Users 
-	- Everyone.
+	- People that will left out their belongings at home often.
 
 2. potential users 
 	- Students, office worker, or traveller
@@ -80,7 +83,8 @@ user and customer archetypes
 1. **goals**
 	- Make user life easier, to find your things in more easy way.
 	- Manage user time well, find things less than one minutes
-	- Will not find important things in a mess
+	- Will not find important things in a mess.
+	- Help user to make sure they brought all the things they need for an occasion.
 
 2. Patterns in user and customer behaviors
 	- People always like to do packing in last minute, will forgot to bring something important when going out from home
@@ -153,7 +157,7 @@ Describe necessary capabilities of the product
 ## 4. Design Framework
 ### a. Elements
 #### i. From a factor, posture, and input method
-- From factor	:- This is a divice with mobile application
+- From factor	:- This is a device with mobile application
 - From posture	:- Requires to attach the tags and key in data through mobile application, so the mode of attention are hand and fingers
 - From input method :- It uses keypad, touch screen, radar and sensor.
 
