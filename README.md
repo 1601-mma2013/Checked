@@ -80,6 +80,12 @@ Find various aspect of audience/customer
 ### a. Personas
 user and customer archetypes
 
+	Name | Gender
+------------ | -------------
+	Jane | Female
+	Occupation | Officer
+	Age	|  30
+
 1. **goals**
 	- Make user life easier, to find your things in more easy way.
 	- Manage user time well, find things less than one minutes
