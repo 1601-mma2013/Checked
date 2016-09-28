@@ -1,7 +1,7 @@
-# This is an <Group> tag
-Yew Melaine  1142701746
-Low Zing En  1142700873
-Lim Chu Chin 1142700863
+# Group Member:
+- Yew Melaine  1142701746
+- Low Zing En  1142700873
+- Lim Chu Chin 1142700863
 
 # Checked
 
