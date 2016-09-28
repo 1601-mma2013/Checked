@@ -161,6 +161,9 @@ Describe necessary capabilities of the product
 	- When the users are preparing for their needs for the next day, tag is attached to the object and will let the user to rename and key in information through a smartphone application. The location of the object will be written into the application and when they rushed out of the rage that the tag detected, their phone will rang with notifivation that reminds users something had left out.
 
 ## 4. Design Framework
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://cloud.githubusercontent.com/assets/20339755/18885079/af145e7c-851c-11e6-8102-25c3e982e091.jpg)
 ### a. Elements
 #### i. From a factor, posture, and input method
 - From factor	:- This is a device with mobile application
